@@ -65,7 +65,10 @@ My Current Operative System </h2>
 
 <div align="center">
 
-![FedeSCode wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FedeCode&layout=compact&theme=synthwave&v=2)
+![FedeSCode wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@FedeCode&layout=compact&theme=dark&v=2)
+
+![FedeSCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=fedescode&show_icons=true&layout=compact&theme=dark&v=2)
+
 
 </div>
 
