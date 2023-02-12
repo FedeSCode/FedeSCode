@@ -1,5 +1,5 @@
 
-# Hello, i'm FedeCode!! <img src="./wave.gif" width="35px" height= "35px">
+# Hello i'm FedeCode!! <img src="./wave.gif" width="35px" height= "35px">
 
 <div align = center>
 
@@ -9,7 +9,7 @@
  📫 How to reach me: fedescode18@gmail.com</br>
 </div>
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 <h2 align="center">
 Technologies and Languages</h2>
 
@@ -35,14 +35,27 @@ Technologies and Languages</h2>
 My Current Workstation Specification </h2>
 
 <div align="center">
-	
 
 ![CPU](https://img.shields.io/badge/ASUS-2088FF?style=flat-square&logo=ASUS&logoColor=black&logoSize=44)
+![CPU](https://img.shields.io/badge/HP-NOTEBOOK-2088FF?style=flat-square&logo=HP&logoColor=black)
+
 <br> 
 
 </div>
 
-<br>
+
+<h2 align="center">
+My Current Operative System </h2>
+
+<div align="center">
+
+![OS](https://img.shields.io/badge/Linux-2088FF?style=flat-square&logo=LINUX&logoColor=black&logoSize=44)
+![OP](https://img.shields.io/badge/WINDOWS-2088FF?style=flat-square&logo=WINDOWS&logoColor=black)
+
+<br> 
+
+</div>
+
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 <!--
@@ -59,7 +72,7 @@ My Current Workstation Specification </h2>
 
 </div>
 
-<br>-->
+
 
 <!---
 FedeSCode/FedeSCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
