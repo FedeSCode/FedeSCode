@@ -1,5 +1,5 @@
 
-# Hello i'm FedeCode!! <img src="./wave.gif" width="35px" height= "35px">
+# Hello, i'm FedeCode!! <img src="./wave.gif" width="35px" height= "35px">
 
 <div align = center>
 
