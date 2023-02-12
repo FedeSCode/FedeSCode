@@ -62,7 +62,7 @@ My Current Operative System </h2>
  
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/federico-suarez
 ) 
-/*
+
 <div align="center">
 
 ![FedeSCode wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FedeCode&layout=compact&theme=synthwave&v=2)
