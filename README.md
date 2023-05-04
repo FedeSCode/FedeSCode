@@ -66,9 +66,10 @@ My Current Operative System </h2>
 <div align="center">
 
 [![FedeSCode wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@FedeCode&layout=compact&theme=dark&v=2&range=all_time)]
+(https://www.linkedin.com/in/federico-suarez) 
 
 [![FedeSCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=fedescode&show_icons=true&layout=compact&theme=dark&v=2)]
-
+(https://www.linkedin.com/in/federico-suarez) 
 
 </div>
 
