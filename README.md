@@ -9,6 +9,8 @@
  📫 How to reach me: fedescode18@gmail.com</br>
 </div>
 
+<script src="https://tryhackme.com/badge/996365"></script>
+
 <h2 align="center">
 Technologies and Languages</h2>
 
